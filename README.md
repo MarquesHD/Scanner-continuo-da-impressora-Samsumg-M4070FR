@@ -8,6 +8,8 @@ mesmo PDF).
 Feito em Python (interface com `customtkinter`, comunicação com o
 scanner via WIA — Windows Image Acquisition).
 
+<img width="819" height="747" alt="image" src="https://github.com/user-attachments/assets/fba2bc0d-179c-4679-957d-4f693eb78a96" />
+
 ---
 
 ## 1. Pré-requisitos
