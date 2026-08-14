@@ -78,6 +78,8 @@ que for usar (só na máquina que gerou o .exe).
   https://support.hp.com/us-en/drivers/samsung-proxpress-sl-m4070-laser-multifunction-printer-series/model/16462932
 <img width="1156" height="306" alt="image" src="https://github.com/user-attachments/assets/c4868eb8-614e-41d5-8627-ba933ff53580" />
 
+  Após a instalação do Driver, é necessário incluir a impressora como Scanner.
+<img width="702" height="459" alt="image" src="https://github.com/user-attachments/assets/9e3ab7ee-d8f3-4772-a090-42c8b8768c71" />
   
 - **Erro ao gerar o .exe**: rode `pip install pywin32` de novo e, se
   necessário, o script `python Scripts\pywin32_postinstall.py -install`
