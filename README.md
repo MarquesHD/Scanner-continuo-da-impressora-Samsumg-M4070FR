@@ -1,4 +1,4 @@
-# Scanner Samsung M4070FR → PDF
+# Scanner Continuo Samsung M4070FR → PDF
 
 App simples e com bom design para digitalizar documentos direto da
 impressora Samsung M4070FR e salvar sempre em PDF, com nome de
